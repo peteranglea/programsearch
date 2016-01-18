@@ -1,0 +1,602 @@
+[
+  {
+    "major_id": 1161,
+    "major_name": "Accounting, BS",
+    "concentrations": "",
+    "tags": "business, math, accounting",
+    "keywords": "business, accountancy, accountant, finances, money, cpa, public accounting",
+    "url": "/academics/programs/accounting/"
+  },
+  {
+    "major_id": 8939,
+    "major_name": "Actuarial Science, BS",
+    "concentrations": "",
+    "tags": "math",
+    "keywords": "insurance, mathematics, stats, statistics, numbers",
+    "url": "/academics/programs/actuarial-science/"
+  },
+  {
+    "major_id": 9256,
+    "major_name": "Apparel, Textiles and Design, BS",
+    "concentrations": "",
+    "tags": "design, art",
+    "keywords": "clothing, designer, fashion, sewing, costumes, decorating",
+    "url": "/academics/programs/apparel-textiles-and-design/"
+  },
+  {
+    "major_id": 100002,
+    "major_name": "Aviation (minor available)",
+    "concentrations": "",
+    "tags": "",
+    "keywords": "aviation, airplane, flight, flying, ",
+    "url": "/academics/programs/minors.php"
+  },
+  {
+    "major_id": 1094,
+    "major_name": "Bible, BA",
+    "concentrations": "",
+    "tags": "bible, missions",
+    "keywords": "pastor, missions, youth, youth minister, youth ministry, youth pastor, youth leader, ministry, ministries, women, women's ministries, camping, missionary, church, greek, hebrew, church planter, church planting, tentmaker, theology, theologian, religion, evangelist",
+    "url": "/academics/programs/bible/"
+  },
+  {
+    "major_id": 1112,
+    "major_name": "Biblical Counseling, BA",
+    "concentrations": "",
+    "tags": "education, bible, counseling / psychology",
+    "keywords": "bible, psychology, counselor, psychologist, family, therapy, marriage, therapist, relationship, substance, abuse, mental health",
+    "url": "/academics/programs/biblical-counseling/"
+  },
+  {
+    "major_id": 12938,
+    "major_name": "Biblical Counseling, MA",
+    "concentrations": "",
+    "tags": "",
+    "keywords": "bible, psychology, counselor, psychologist, family, therapy, marriage, therapist, relationship, substance, abuse, mental health",
+    "url": "/academics/graduate-programs/biblical-counseling/"
+  },
+  {
+    "major_id": 10794,
+    "major_name": "Biblical Studies, MA",
+    "concentrations": "",
+    "tags": "",
+    "keywords": "bible, pastoral, seminary, theology, theologian",
+    "url": "/academics/graduate-programs/biblical-studies/"
+  },
+  {
+    "major_id": 10362,
+    "major_name": "Biochemistry and Molecular Biology, BS",
+    "concentrations": "",
+    "tags": "nursing / medical, science, biology, chemistry",
+    "keywords": "scientist, engineering, research, biomedicine, physiology, physiologist, genetics, medicine, proteomics",
+    "url": "/academics/programs/biochemistry-and-molecular-biology/"
+  },
+  {
+    "major_id": 1096,
+    "major_name": "Biology, BS",
+    "concentrations": "Cell Biology, Zoo and Wildlife Biology",
+    "tags": "nursing / medical, science, biology",
+    "keywords": "scientist, engineering, research, agriculture, botany, botanist, cytotechnologist, ecology, ecologist, forestry, forester, genetics, geneticist, horticulture, doctor, nurse, pharmacist, pharmacology, zoology, veterinarian",
+    "url": "/academics/programs/biology/"
+  },
+  {
+    "major_id": 8236,
+    "major_name": "Business Administration, BS",
+    "concentrations": "",
+    "tags": "business, math, accounting",
+    "keywords": "finance, management, logistics, operations, business owner, marketing, banking, entrepreneur, real estate, small business, hr, human resources, retail, sales, international",
+    "url": "/academics/programs/business-administration/"
+  },
+  {
+    "major_id": 11540,
+    "major_name": "Business, AS",
+    "concentrations": "",
+    "tags": "business, math",
+    "keywords": "finance, management, logistics, operations, business owner, marketing, banking, entrepreneur, real estate, small business, hr, human resources, retail, sales, international",
+    "url": "/academics/programs/business-as/"
+  },
+  {
+    "major_id": 1103,
+    "major_name": "Chemistry, BS",
+    "concentrations": "",
+    "tags": "science, chemistry",
+    "keywords": "chemicals, lab, medicine, lab technician, research, agriculture, science, environment, forensics, inventor",
+    "url": "/academics/programs/chemistry/"
+  },
+  {
+    "major_id": 11539,
+    "major_name": "Christian Ministries, AS",
+    "concentrations": "",
+    "tags": "bible, missions",
+    "keywords": "bible, missions, pastoral, school, teacher, camp, missionary, youth, youth minister, youth pastor, youth leader, religion, evangelist, evangelism, preacher, ministry, church",
+    "url": "/academics/programs/christian-ministries-as/"
+  },
+  {
+    "major_id": 11543,
+    "major_name": "Christian Ministries, BS",
+    "concentrations": "",
+    "tags": "bible, missions",
+    "keywords": "bible, missions, pastoral, school, teacher, camp, missionary, youth, youth pastor, youth leader, youth minister, religion, evangelist, evangelism, preacher, ministry, church",
+    "url": "/academics/programs/christian-ministries/"
+  },
+  {
+    "major_id": 1106,
+    "major_name": "Church Music, BMus",
+    "concentrations": "Voice Principal, Piano Principal, Organ Principal, Orchestral Instrument Principal",
+    "tags": "music",
+    "keywords": "instruments, voice, piano, organ, violin, strings, viola, cello, bass, trumpet, brass, trombone, horn, french horn, bassoon, oboe, clarinet, tuba, guitar, percussion, choir, choral, vocal, sacred, harp, woodwinds, music leader, music pastor",
+    "url": "/academics/programs/church-music/"
+  },
+  {
+    "major_id": 12606,
+    "major_name": "Church Music, MMus",
+    "concentrations": "Composition Principal, Orchestral Instrument Principal, Voice Principal, Piano Principal, Conducting Principal, Organ Principal",
+    "tags": "",
+    "keywords": "voice, piano, organ, violin, strings, viola, cello, bass, trumpet, brass, trombone, horn, french horn, bassoon, oboe, clarinet, tuba, guitar, percussion, choir, choral, vocal, sacred, conducting, composition, composing, directing, director, harp, woodwinds, music leader, music pastor",
+    "url": "/academics/graduate-programs/church-music/"
+  },
+  {
+    "major_id": 1107,
+    "major_name": "Cinema Production, BS",
+    "concentrations": "",
+    "tags": "film",
+    "keywords": "movies, films, videos, cameras, theater, director, directing, audiovisual, av, filmmaker",
+    "url": "/academics/programs/cinema-production/"
+  },
+  {
+    "major_id": 10678,
+    "major_name": "Communication, BA",
+    "concentrations": "",
+    "tags": "communication, writing, language",
+    "keywords": "speech, speaking, public speaking, public relations, pr, public policy",
+    "url": "/academics/programs/communication/"
+  },
+  {
+    "major_id": 9511,
+    "major_name": "Communication Disorders, BS",
+    "concentrations": "",
+    "tags": "communication, education, language",
+    "keywords": "speech, therapy, pathology, speech pathology, language, audiology, aural skills, auditory, treatment, therapist, medical, medicine, children, deaf",
+    "url": "/academics/programs/communication-disorders/"
+  },
+  {
+    "major_id": 10679,
+    "major_name": "Communication Studies, MA",
+    "concentrations": "",
+    "tags": "",
+    "keywords": "speech, public relations, pr, teacher, education, research, mass communications",
+    "url": "/academics/graduate-programs/communication-studies/"
+  },
+  {
+    "major_id": 1110,
+    "major_name": "Composite Social Studies Education, BS",
+    "concentrations": "",
+    "tags": "education",
+    "keywords": "history, teacher, politics, political science, government, law, prelaw, pre-law, lawyer, geography, economics, cultures, society, civilization",
+    "url": "/academics/programs/composite-social-studies-education/"
+  },
+  {
+    "major_id": 1111,
+    "major_name": "Computer Science, BS",
+    "concentrations": "",
+    "tags": "computers / technology",
+    "keywords": "cps, programming, programmer, developer, video games, databases, statistics, analysis, java, cryptography, web applications, internet, development, software, engineering, 1337, operating systems, windows, mac, linux, it, information technologies, algorithm",
+    "url": "/academics/programs/computer-science/"
+  },
+  {
+    "major_id": 1113,
+    "major_name": "Creative Writing, BA",
+    "concentrations": "",
+    "tags": "communication, writing",
+    "keywords": "writer, story, author, playwright, journalist, journalism, communications",
+    "url": "/academics/programs/creative-writing/"
+  },
+  {
+    "major_id": 1114,
+    "major_name": "Criminal Justice, BS",
+    "concentrations": "",
+    "tags": "criminal justice / law, government, law",
+    "keywords": "law, pre-law, prelaw, pre law, lawyer, police, government, cop, law enforcement, security, cj, public safety, officer, sheriff, probation, investigator, investigation, prison, detective, pi, corrections, crime",
+    "url": "/academics/programs/criminal-justice/"
+  },
+  {
+    "major_id": 1105,
+    "major_name": "Cross-Cultural Service, BA",
+    "concentrations": "",
+    "tags": "bible, missions",
+    "keywords": "missions, missionary, bible, christian, religion, camp, pastors, church planters, tentmakers",
+    "url": "/academics/programs/cross-cultural-service/"
+  },
+  {
+    "major_id": 11552,
+    "major_name": "Culinary Arts, AS",
+    "concentrations": "",
+    "tags": "food / nutrition",
+    "keywords": "food, cooking, chef, restaurant, food service, management, hospitality, pastry, baking, baker, caterer, catering, nutrition, nutritionist, entrepreneur, small business",
+    "url": "/academics/programs/culinary-arts/"
+  },
+  {
+    "major_id": 1067,
+    "major_name": "Doctor of Ministry",
+    "concentrations": "",
+    "tags": "",
+    "keywords": "phd, bible, religion, seminary, greek, hebrew, church, pastoral, preacher, theology, theologian, missions, evangelism, counseling, evangelist",
+    "url": "/academics/graduate-programs/doctor-of-ministry/"
+  },
+  {
+    "major_id": 11570,
+    "major_name": "Early Child Care and Development, AS",
+    "concentrations": "",
+    "tags": "education",
+    "keywords": "children, daycare, education, nursery, preschool, pre-school, kindergarten, k5, k-5, k4, k-4, nanny, foster care, homeschooling, home school, home-school",
+    "url": "/academics/programs/early-childcare-and-development-as/"
+  },
+  {
+    "major_id": 1115,
+    "major_name": "Early Childhood Education, BS",
+    "concentrations": "",
+    "tags": "education",
+    "keywords": "children, daycare, education, nursery, preschool, pre-school, kindergarten, k5, k-5, k4, k-4, nanny, foster care, homeschooling, home school, home-school",
+    "url": "/academics/programs/early-childhood-education/"
+  },
+  {
+    "major_id": 7666,
+    "major_name": "Educational Leadership, MS",
+    "concentrations": "",
+    "tags": "",
+    "keywords": "teacher, administrator, school, principal, curriculum",
+    "url": "/academics/graduate-programs/educational-leadership/"
+  },
+  {
+    "major_id": 1117,
+    "major_name": "Elementary Education, BS",
+    "concentrations": "",
+    "tags": "education",
+    "keywords": "el ed, school, teacher, curriculum, children, homeschooling, home school, home-school, tutoring",
+    "url": "/academics/programs/elementary-education/"
+  },
+  {
+    "major_id": 10711,
+    "major_name": "Engineering, BS",
+    "concentrations": "",
+    "tags": "engineering",
+    "keywords": "robotics, computers, programming, science, electronics, mechanics, physics, mathematics, technology",
+    "url": "/academics/programs/engineering/"
+  },
+  {
+    "major_id": 1119,
+    "major_name": "English, BA",
+    "concentrations": "",
+    "tags": "communication, education, writing, law, language",
+    "keywords": "literature, language, reading, shakespeare, writing, grammar, grammer, esl, writer, communications, author, law, prelaw, pre-law, lawyer, editorial",
+    "url": "/academics/programs/english/"
+  },
+  {
+    "major_id": 1120,
+    "major_name": "English Education, BS",
+    "concentrations": "",
+    "tags": "education, language",
+    "keywords": "literature, language, reading, shakespeare, writing, grammar, grammer, esl, writer, communications, author, editorial, school, children, teacher",
+    "url": "/academics/programs/english-education/"
+  },
+  {
+    "major_id": 7648,
+    "major_name": "English, MA",
+    "concentrations": "",
+    "tags": "",
+    "keywords": "literature, language, reading, shakespeare, writing, grammar, grammer, esl, writer, communications, author, editorial",
+    "url": "/academics/graduate-programs/english/"
+  },
+  {
+    "major_id": 12860,
+    "major_name": "Exercise Science, BS",
+    "concentrations": "",
+    "tags": "nursing / medical, health, fitness, food / nutrition",
+    "keywords": "sports, health, fitness, trainer, coaching, athletics, athletes",
+    "url": "/academics/programs/exercise-science/"
+  },
+  {
+    "major_id": 10682,
+    "major_name": "Graphic Design, BFA",
+    "concentrations": "",
+    "tags": "computers / technology, design, art",
+    "keywords": "paint, photoshop, web design, adobe, typography, drawing, sketching, artist, designer, advertising, print design, illustration, illustrator, branding",
+    "url": "/academics/programs/graphic-design/"
+  },
+  {
+    "major_id": 12859,
+    "major_name": "Health and Fitness Training, AS",
+    "concentrations": "",
+    "tags": "nursing / medical, health, fitness",
+    "keywords": "sports, trainer, athletics,athlete",
+    "url": "/academics/programs/health-and-fitness-training/"
+  },
+  {
+    "major_id": 13517,
+    "major_name": "Health Sciences, BS",
+    "concentrations": "",
+    "tags": "",
+    "keywords": "biology, pre-physical, therapy, prephysical, physical therapy",
+    "url": "/academics/programs/health-sciences/"
+  },
+  {
+    "major_id": 1129,
+    "major_name": "History, BA",
+    "concentrations": "",
+    "tags": "education, criminal justice / law, government, law, political science",
+    "keywords": "politics, political science, government, prelaw, law, pre-law, pre law, lawyer, social studies, teacher, education, school, public policy",
+    "url": "/academics/programs/history/"
+  },
+  {
+    "major_id": 1132,
+    "major_name": "Humanities, BA",
+    "concentrations": "",
+    "tags": "",
+    "keywords": "liberal arts, literature, classics, prelaw, pre-law, pre law, laywer, law, ",
+    "url": "/academics/programs/humanities/"
+  },
+  {
+    "major_id": 7930,
+    "major_name": "Information Technology, BS",
+    "concentrations": "",
+    "tags": "computers / technology",
+    "keywords": "it, computers, programming, developer, development, database, database administrator, telecommunications, systems, programmer, cio, web, internet, software, hardware, engineer, engineering, software engineering",
+    "url": "/academics/programs/information-technology/"
+  },
+  {
+    "major_id": 10683,
+    "major_name": "Interior Design, BFA",
+    "concentrations": "",
+    "tags": "design",
+    "keywords": "designer, art, interior decorator, interior decoration, architecture, decorating, ",
+    "url": "/academics/programs/interior-design/"
+  },
+  {
+    "major_id": 7636,
+    "major_name": "International Studies, BA",
+    "concentrations": "",
+    "tags": "international, government",
+    "keywords": "foreign, business, language, politics, diversity, global, economics, military, teacher, foreign language, government, law, lawyer, pre-law, prelaw",
+    "url": "/academics/programs/international-studies/"
+  },
+  {
+    "major_id": 10677,
+    "major_name": "Journalism and Mass Communication, BA",
+    "concentrations": "",
+    "tags": "communication, film, writing, language",
+    "keywords": "journalist, news, writing, editor, editorial, business, media, politics, writer, mass media, public relations, pr, advertising, author, public policy",
+    "url": "/academics/programs/journalism-and-mass-communication/"
+  },
+  {
+    "major_id": 11569,
+    "major_name": "Keyboard Performance, BMus",
+    "concentrations": "",
+    "tags": "music",
+    "keywords": "piano, organ, music leader, music pastor, music teacher",
+    "url": "/academics/programs/keyboard-performance/"
+  },
+  {
+    "major_id": 1065,
+    "major_name": "Master of Divinity",
+    "concentrations": "",
+    "tags": "",
+    "keywords": "bible, ministry, church pastor, evangelist, evangelism, preacher, preaching, seminary, greek, hebrew, theology, theologian, church history, religion, ",
+    "url": "/academics/graduate-programs/master-of-divinity/"
+  },
+  {
+    "major_id": 1059,
+    "major_name": "Master of Ministry",
+    "concentrations": "",
+    "tags": "",
+    "keywords": "bible, ministry, church pastor, evangelist, evangelism, preacher, preaching, seminary, greek, hebrew, theology, theologian, church history, religion, ",
+    "url": "/academics/graduate-programs/master-of-ministry/"
+  },
+  {
+    "major_id": 7682,
+    "major_name": "Master of Music Education",
+    "concentrations": "",
+    "tags": "",
+    "keywords": "instruments, voice, piano, organ, violin, strings, viola, cello, bass, trumpet, brass, trombone, horn, french horn, bassoon, oboe, clarinet, tuba, guitar, percussion, choir, choral, vocal, teacher, teaching, music teacher, music leader, music pastor",
+    "url": "/academics/graduate-programs/master-of-music-education/"
+  },
+  {
+    "major_id": 1140,
+    "major_name": "Mathematics, BS",
+    "concentrations": "",
+    "tags": "education, math",
+    "keywords": "numbers, engineering, finance, statistics, algebra, calculus, teacher, teaching, ",
+    "url": "/academics/programs/mathematics/"
+  },
+  {
+    "major_id": 1141,
+    "major_name": "Mathematics Education, BS",
+    "concentrations": "",
+    "tags": "education, math",
+    "keywords": "",
+    "url": "/academics/programs/mathematics-education/"
+  },
+  {
+    "major_id": 10485,
+    "major_name": "Middle School Education, BS",
+    "concentrations": "Mathematics/Science, Language Arts/Social Studies",
+    "tags": "education",
+    "keywords": "school, teacher, curriculum, children, homeschooling, home school, home-school, tutoring, junior high, jr high, ",
+    "url": "/academics/programs/middle-school-education/"
+  },
+  {
+    "major_id": 10783,
+    "major_name": "Ministry Studies, MA",
+    "concentrations": "",
+    "tags": "",
+    "keywords": "bible, ministry, church pastor, evangelist, evangelism, preacher, preaching, seminary, greek, hebrew, theology, theologian, church history, religion, ",
+    "url": "/academics/graduate-programs/ministry-studies/"
+  },
+  {
+    "major_id": 1143,
+    "major_name": "Music Education, BS",
+    "concentrations": "Voice Principal, Piano or Organ Principal with Choral Track, Orchestral Instrument Principal, Piano or Organ Principal with Instrumental Track",
+    "tags": "education, music",
+    "keywords": "instruments, voice, piano, organ, violin, strings, viola, cello, bass, trumpet, brass, trombone, horn, french horn, bassoon, oboe, clarinet, tuba, guitar, percussion, choir, choral, vocal, teacher, teaching, music teacher, music leader, music pastor",
+    "url": "/academics/programs/music-education/"
+  },
+  {
+    "major_id": 1144,
+    "major_name": "Nursing, BSN",
+    "concentrations": "",
+    "tags": "nursing / medical, health, fitness",
+    "keywords": "hospitals, medicine, health, healthcare, medical, rehabilitation, ",
+    "url": "/academics/programs/nursing/"
+  },
+  {
+    "major_id": 1147,
+    "major_name": "Orchestral Instrument Performance, BMus",
+    "concentrations": "",
+    "tags": "music",
+    "keywords": "piano, organ, violin, strings, viola, cello, bass, trumpet, brass, trombone, horn, french horn, bassoon, oboe, clarinet, tuba, guitar, percussion, harp, woodwinds, music leader, music pastor, music teacher",
+    "url": "/academics/programs/orchestral-instrument-performance/"
+  },
+  {
+    "major_id": 11567,
+    "major_name": "Performance, MMus",
+    "concentrations": "",
+    "tags": "",
+    "keywords": "musician, performer, teacher, instructor, music history, musicology",
+    "url": "/academics/graduate-programs/performance/"
+  },
+  {
+    "major_id": 1152,
+    "major_name": "Physics, BS",
+    "concentrations": "",
+    "tags": "science",
+    "keywords": "mathematics, engineering, astrophysics, biophysics, astronomy, space, geophysics, meteorology, mechanics, physicist",
+    "url": "/academics/programs/physics/"
+  },
+  {
+    "major_id": 1154,
+    "major_name": "Piano Pedagogy, BMus",
+    "concentrations": "",
+    "tags": "education, music",
+    "keywords": "keyboard, teaching, teacher, music teacher, music leader, music pastor",
+    "url": "/academics/programs/piano-pedagogy/"
+  },
+  {
+    "major_id": 7836,
+    "major_name": "Piano Pedagogy, MMus",
+    "concentrations": "",
+    "tags": "",
+    "keywords": "keyboard, teaching, teacher",
+    "url": "/academics/graduate-programs/piano-pedagogy/"
+  },
+  {
+    "major_id": 1157,
+    "major_name": "Premed/Predent, BS",
+    "concentrations": "",
+    "tags": "nursing / medical, health, science, biology, fitness, food / nutrition",
+    "keywords": "pre med, pre-med, pre dent, pre-dent, doctor, physician, medicine, pharmacist, dentist, dentistry, optometry, optometrist, biology, health, dental hygienist, dental assistant, veterinary, veterinarian, surgeon, medical, podiatry, pediatrician, pediatrics",
+    "url": "/academics/programs/premed-predent/"
+  },
+  {
+    "major_id": 12636,
+    "major_name": "Science Education, BS",
+    "concentrations": "Biology, Composite Science",
+    "tags": "education, science, biology",
+    "keywords": "teacher, school, biology, chemistry, physics, technology, research, physical science, high school, highschool, ",
+    "url": "/academics/programs/science-education/"
+  },
+  {
+    "major_id": 1169,
+    "major_name": "Spanish, BA",
+    "concentrations": "",
+    "tags": "education, international, language",
+    "keywords": "language, foreign, espanol, international, hispanic, culture, business, government, politics, linguistics, bilingual, translator, translation, missions, missionary",
+    "url": "/academics/programs/spanish/"
+  },
+  {
+    "major_id": 7606,
+    "major_name": "Spanish Education, BS",
+    "concentrations": "",
+    "tags": "education, international, language",
+    "keywords": "language, foreign, espanol, international, hispanic, culture, business, government, politics, linguistics, bilingual, translator, translation, missions, missionary",
+    "url": "/academics/programs/spanish-education/"
+  },
+  {
+    "major_id": 1171,
+    "major_name": "Special Education, BS",
+    "concentrations": "",
+    "tags": "education",
+    "keywords": "teacher, learning disability, learning disabilities, therapy, therapist, special needs, handicap, mr, social worker",
+    "url": "/academics/programs/special-education/"
+  },
+  {
+    "major_id": 12861,
+    "major_name": "Sports Management, BS",
+    "concentrations": "",
+    "tags": "business, nursing / medical, health, fitness, food / nutrition",
+    "keywords": "fitness, athletics, business,pr,coaching",
+    "url": "/academics/programs/sports-management/"
+  },
+  {
+    "major_id": 7986,
+    "major_name": "Studio Art, BFA",
+    "concentrations": "",
+    "tags": "communication, design, art",
+    "keywords": "painter, painting, sculptor, sculpting, illustrator, illustrating, design, designer, designing, artist, drawing, sketching, photography, video, digital media, web design, printmaking",
+    "url": "/academics/programs/studio-art/"
+  },
+  {
+    "major_id": 10431,
+    "major_name": "Teaching and Learning, MEd",
+    "concentrations": "",
+    "tags": "",
+    "keywords": "teacher, school, education",
+    "url": "/academics/graduate-programs/teaching-and-learning/"
+  },
+  {
+    "major_id": 9524,
+    "major_name": "Theatre Arts, BA",
+    "concentrations": "",
+    "tags": "communication, education, writing, drama & theatre",
+    "keywords": "speech, performer, performance, acting, actor, thespian, actress, drama, director, directing, producer, shakespeare, plays, playwright, theater arts",
+    "url": "/academics/programs/theatre-arts/"
+  },
+  {
+    "major_id": 11568,
+    "major_name": "Theatre Arts, MA",
+    "concentrations": "",
+    "tags": "",
+    "keywords": "speech, performer, performance, acting, actor, thespian, actress, drama, director, directing, producer, shakespeare, plays, playwright, theater arts",
+    "url": "/academics/graduate-programs/theatre-arts/"
+  },
+  {
+    "major_id": 3181,
+    "major_name": "Theological Studies, MA",
+    "concentrations": "",
+    "tags": "",
+    "keywords": "pastoral, missions, missionary, church, greek, hebrew, church planter, church planting, tentmaker, seminary, theology, theologian, religion, evangelist",
+    "url": "/academics/graduate-programs/theological-studies-ma/"
+  },
+  {
+    "major_id": 10769,
+    "major_name": "Theological Studies, PhD",
+    "concentrations": "",
+    "tags": "",
+    "keywords": "seminary, bible, theology, theologian, pastor, evangelist, evangelism, greek, hebrew",
+    "url": "/academics/graduate-programs/theological-studies/"
+  },
+  {
+    "major_id": 1174,
+    "major_name": "Voice Performance, BMus",
+    "concentrations": "",
+    "tags": "music",
+    "keywords": "vocal, singer, singing, choral, chorister, choir, teacher, music teacher, musician, performer, soloist, music leader, music pastor",
+    "url": "/academics/programs/voice-performance/"
+  },
+  {
+    "major_id": 100001,
+    "major_name": "Youth Ministries",
+    "concentrations": "",
+    "tags": "",
+    "keywords": "youth pastor, evangelist, evangelism, children, children's ministry, youth worker",
+    "url": "/academics/college-and-schools/religion/youth-ministries.php"
+  }
+]

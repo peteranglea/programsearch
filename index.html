@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>Program Listing Search</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600' rel='stylesheet' type='text/css' />
+	<link rel="stylesheet" href="css/styles.css" type="text/css" />
+</head>
+<body>
+	<div id="programsearch">
+		<div id="programinput">
+			<label for="program">Accounting, Bible, Music…</label>
+			<input type="text" name="program" id="program">
+			<span id="programclear" class="search"></span>
+		</div>
+		<div id="results"></div>
+		<p>Search for a degree program using any keyword you can think of. The search script will parse through downloaded JSON data of all the programs offered at Bob Jones University. It will find and rank matches based on a number of criteria such as whether the program name starts with the search string, contains the search string, or has a concentration, tag, or keyword that matches.</p>
+		<p>When matches are returned, hover or use the arrow keys to select a match and click or press Enter to navigate to that program's page on the website.</p>
+		<p>If Google Analytics tracking code is properly set up, the script will track user actions by creating events for various things: what a user searched for, what the user clicked on, which search queries returned no results, etc.</p>
+	</div>
+	<script src="js/vendor/jquery.min.js"></script>
+	<script src="js/programsearch.js"></script>
+	<script>
+	$(document).ready(function(){
+		programsearch.init();
+	});
+	</script>
+</body>
+</html>

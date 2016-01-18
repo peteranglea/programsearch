@@ -1,0 +1,119 @@
+@import 'reset';
+
+body {
+	font: 16px/1.5em 'Source Sans Pro', sans-serif;
+}
+
+p {
+	margin-bottom: 1.5rem;
+}
+
+#programinput {
+	position: relative;
+	margin-bottom: 1.5rem;
+
+	label {
+		position: absolute;
+		line-height: 2.5rem;
+		left: 2em;
+		cursor: text;
+		color: #999;
+		font-size: 18px;
+	}
+}
+
+#programclear {
+	position: absolute;
+	top: 0;
+	right: 8px;
+	width: 1.5em;
+	height: 2.6em;
+
+	&.clear {
+		background: url('../images/cross-small-black.png') center no-repeat;
+		cursor: pointer;
+	}
+	&.search {
+		background: url('../images/search-magnifying-glass.png') center no-repeat;
+	}
+}
+
+#programsearch {
+	width: 100%;
+	max-width: 600px;
+	margin: 1em auto 0;
+	position: relative;
+
+	#program {
+		padding: 0.5em 2em;
+		width: 100%;
+		font-size: 18px;
+		max-width: initial;
+		margin: 0 0 1px;
+		box-shadow: inset 0px 0px 5px #e0e0e0;
+		border: 1px solid #bbb;
+		-moz-border-radius: 4px;
+		-webkit-border-radius: 4px;
+		border-radius: 4px;
+		outline: none;
+		background: #fff url('../images/lightbulb.png') 13px center no-repeat;
+
+		&:focus {
+			border-color: #abc;
+			box-shadow: inset 0px 0px 5px #def;
+		}
+	}
+
+	&::-ms-clear {
+		display: none;
+	}
+
+	ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	#results {
+		position: absolute;
+		top: 2.6rem;
+		width: 100%;
+		background: #fff;
+		z-index: 50;
+		box-shadow: 0px 2px 3px #ccc;
+		font-size: 1em;
+
+		> ul {
+			border: 1px solid #ccc;
+			padding: 1px;
+		}
+		
+		li {
+			line-height: 1.5em;
+			padding: 0 0.3em;
+			border: 1px solid transparent;
+			
+			&:hover {
+				background: #f0f0f0;
+				border: 1px solid #d0d0d0;
+				-moz-border-radius: 3px;
+				-webkit-border-radius: 3px;
+				border-radius: 3px;
+			}
+
+			&.active {
+				background: #6d84b4;
+				border: 1px solid #3b5998;
+				-moz-border-radius: 3px;
+				-webkit-border-radius: 3px;
+				border-radius: 3px;
+				color: #fff;
+			}
+			a {
+				color: inherit;
+				text-decoration: none;
+				display: block;
+				padding-left: 29px;
+			}
+		}
+	}
+}

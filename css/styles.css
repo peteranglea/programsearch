@@ -1,0 +1,168 @@
+/* https://gist.github.com/peteranglea/d96d7bede8bfb3d72972 */
+@-ms-viewport {
+  width: device-width; }
+@-o-viewport {
+  width: device-width; }
+@viewport {
+  width: device-width; }
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; }
+
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+body {
+  line-height: 1;
+  -webkit-text-size-adjust: none; }
+
+ol, ul {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote::before, blockquote::after, q::before, q::after {
+  content: '';
+  content: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+strong {
+  font-weight: bold; }
+
+em {
+  font-style: italic; }
+
+textarea {
+  font-family: inherit; }
+
+sub {
+  font-size: 0.7em;
+  vertical-align: text-bottom;
+  line-height: 1em; }
+
+sup {
+  font-size: 0.7em;
+  vertical-align: text-top;
+  line-height: 1em; }
+
+small {
+  font-size: 0.9em; }
+
+img {
+  max-width: 100%;
+  border: none;
+  vertical-align: bottom;
+  -ms-interpolation-mode: bicubic; }
+
+.clearfix::after {
+  content: "";
+  display: block;
+  visibility: hidden;
+  height: 0px;
+  line-height: 0px;
+  clear: both; }
+
+body {
+  font: 16px/1.5em 'Source Sans Pro', sans-serif; }
+
+p {
+  margin-bottom: 1.5rem; }
+
+#programinput {
+  position: relative;
+  margin-bottom: 1.5rem; }
+  #programinput label {
+    position: absolute;
+    line-height: 2.5rem;
+    left: 2em;
+    cursor: text;
+    color: #999;
+    font-size: 18px; }
+
+#programclear {
+  position: absolute;
+  top: 0;
+  right: 8px;
+  width: 1.5em;
+  height: 2.6em; }
+  #programclear.clear {
+    background: url("../images/cross-small-black.png") center no-repeat;
+    cursor: pointer; }
+  #programclear.search {
+    background: url("../images/search-magnifying-glass.png") center no-repeat; }
+
+#programsearch {
+  width: 100%;
+  max-width: 600px;
+  margin: 1em auto 0;
+  position: relative; }
+  #programsearch #program {
+    padding: 0.5em 2em;
+    width: 100%;
+    font-size: 18px;
+    max-width: initial;
+    margin: 0 0 1px;
+    box-shadow: inset 0px 0px 5px #e0e0e0;
+    border: 1px solid #bbb;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    outline: none;
+    background: #fff url("../images/lightbulb.png") 13px center no-repeat; }
+    #programsearch #program:focus {
+      border-color: #abc;
+      box-shadow: inset 0px 0px 5px #def; }
+  #programsearch::-ms-clear {
+    display: none; }
+  #programsearch ul {
+    list-style: none;
+    margin: 0;
+    padding: 0; }
+  #programsearch #results {
+    position: absolute;
+    top: 2.6rem;
+    width: 100%;
+    background: #fff;
+    z-index: 50;
+    box-shadow: 0px 2px 3px #ccc;
+    font-size: 1em; }
+    #programsearch #results > ul {
+      border: 1px solid #ccc;
+      padding: 1px; }
+    #programsearch #results li {
+      line-height: 1.5em;
+      padding: 0 0.3em;
+      border: 1px solid transparent; }
+      #programsearch #results li:hover {
+        background: #f0f0f0;
+        border: 1px solid #d0d0d0;
+        -moz-border-radius: 3px;
+        -webkit-border-radius: 3px;
+        border-radius: 3px; }
+      #programsearch #results li.active {
+        background: #6d84b4;
+        border: 1px solid #3b5998;
+        -moz-border-radius: 3px;
+        -webkit-border-radius: 3px;
+        border-radius: 3px;
+        color: #fff; }
+      #programsearch #results li a {
+        color: inherit;
+        text-decoration: none;
+        display: block;
+        padding-left: 29px; }
+
+/*# sourceMappingURL=styles.css.map */
