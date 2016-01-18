@@ -1,4 +1,5 @@
 # programsearch
+![Screenshot](images/screenshot.png)
 
 A simple script to demonstrate how rapid parsing of prefetched JSON data can dramatically improve user experience. As seen on bju.edu.
 
